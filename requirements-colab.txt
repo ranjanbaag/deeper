@@ -1,7 +1,7 @@
 pathlib==1.0.1
 scandir==1.6
-h5py==2.9.0
-Keras==2.1.6
+h5py
+Keras
 opencv-python==4.5.1.48
 tensorflow-gpu
 scikit-image==0.18.1
